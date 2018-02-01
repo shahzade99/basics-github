@@ -1,1 +1,1 @@
-hello this is my first git programe, kindly bear any mistakes which follows.
+hello this is my first git programe, kindly bear any mistakes which follows. This file is further modified and saved.

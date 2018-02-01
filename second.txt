@@ -1,1 +1,3 @@
-hello this is the second file i'm creating. kindly bear any mistakes which follows.
+This is the second file to compare from staging area to repo as 
+git diff  compare working directory file to repo file
+git diff --stage compare staging copy with repo file
